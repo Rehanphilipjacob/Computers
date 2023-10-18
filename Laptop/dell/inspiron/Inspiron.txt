@@ -1,0 +1,13 @@
+Processor
+12th Gen Intel® Core™ i3-1215U
+OS
+Windows 11 Home Single Language
+(Dell Technologies recommends Windows 11 Pro for business)
+Graphics
+Intel® UHD Graphics
+Memory
+8 GB: 1 x 8 GB, DDR4, 3200 MT/s
+Storage
+512 GB, M.2, PCIe NVMe, SSD
+Display
+40.6-cm. display Full HD+ (1920X1200)
